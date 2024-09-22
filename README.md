@@ -1,1 +1,1 @@
-# :white_check_mark: Github for developer
+# :point_right: :white_check_mark: Github for developer
